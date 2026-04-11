@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 int main () {
     int weight;
     printf("Enter the weight of Watermelon:");
@@ -9,3 +10,4 @@ int main () {
     printf("NO");
     return 0;
 }
+
